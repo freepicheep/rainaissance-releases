@@ -3,19 +3,16 @@
     <channel>
         <title>Rainaissance</title>
         <item>
-            <title>2.0.0</title>
-            <pubDate>Fri, 21 Nov 2025 16:14:31 -0500</pubDate>
-            <sparkle:version>2.0.0</sparkle:version>
-            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <title>2.0.1</title>
+            <pubDate>Mon, 24 Nov 2025 19:35:16 -0500</pubDate>
+            <sparkle:version>2.0.1</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h1>Rainaissance 2.0 | Snow ❄️, Rain Sounds 🔊, + More</h1>
-<p>Welcome to Rainaissance 2.0. Here you find snow! Snow on your mac is a delightful thing and truly prepares you for
-    the cozy holidays. Watch the snow drift lazily down your screen or set it to be a full on blizzard. It's fun.🌨️
-    <br><br>
-    Not only do we have snow, but you can also turn on rain sounds. This was introduced earlier, but has been improved
-    to properly sync with the server where the sounds are pulled from.
-</p>]]></description>
-            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v2.0.0/Rainaissance.2.0.0.dmg" length="6967378" type="application/octet-stream" sparkle:edSignature="HAIcBUPubYhp270L6RouS6JtAUULJ18ufiHfBe5T+zSYTkBxW8ngFU01rATZifOEkNQjGZ9BkrXY6YSa6pMvBQ=="/>
+            <description><![CDATA[<h1>Updated App Icon & A Few UI Improvements</h1>
+<p>After releasing the snow update a few days ago, I decided it was time to update the app icon to reflect the change.
+    If you choose to not hide Rainaissance from the dock (which you can do in the advanced settings), your dock has a
+    shiny new icon now. I also improved a few UI elements in the settings views.</p>]]></description>
+            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v2.0.1/Rainaissance.2.0.1.dmg" length="7182274" type="application/octet-stream" sparkle:edSignature="iPn4qnxehvQ5bbCtX3egZfZb/nYLx1mw4Ltbgr6ltrZUCy81Ivbo3Ao4wFgDH6OJ/Tcp+JDr/3pKNkyC0bAxAQ=="/>
         </item>
     </channel>
 </rss>
