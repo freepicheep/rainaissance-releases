@@ -3,21 +3,24 @@
     <channel>
         <title>Rainaissance</title>
         <item>
-            <title>2.1.1</title>
-            <pubDate>Mon, 22 Dec 2025 12:05:50 -0500</pubDate>
-            <sparkle:version>2.1.1</sparkle:version>
-            <sparkle:shortVersionString>2.1.1</sparkle:shortVersionString>
+            <title>2.2.0</title>
+            <pubDate>Sat, 03 Jan 2026 18:46:33 -0500</pubDate>
+            <sparkle:version>2.2.0</sparkle:version>
+            <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h1>Fix Regression with Multiple Monitor Support</h1>
+            <description><![CDATA[<h1>Integration with Shortcuts and Raycast Support (pending approval)</h1>
 <p>
-    The last update was not tested on enough monitors before hand and had
-    unfortunate regressions for those using multiple monitors. I'm sorry if this
-    affected your Rainaissance experience. This update fixes those regressions
-    and Rainaissance properly restarts after you change your monitor
-    configuration as before.
-</p>
-]]></description>
-            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v2.1.1/Rainaissance.2.1.1.dmg" length="7185188" type="application/octet-stream" sparkle:edSignature="Qier9KTXXtvSQVi6IEInQMy0JfjqZd3m1/FQveLLwBk0p2kSz3So8WQji6c/RDQTV39hY9woA1V9/PDOcVJiAg=="/>
+    I've been wanting to build this release since I first had the idea of Rainaissance. Now you can automate rain and
+    snow on your Mac using shortcuts, or, if you are a programmer, url schemes. This means you can make shortcuts that
+    will automatically check the weather and start rain or snow based on current weather conditions. It is so fun and
+    makes Rainaissance even more powerful and customizable.
+    <br><br>
+    I built the Raycast extension but it will need to be approved by the Raycast team before it is available. Keep your
+    eyes open for it on the Raycast extension store over the next few days/weeks. It's very handy for controlling
+    Rainaissance from your keyboard. It will include: (1) Toggle Rain/Snow, (2) Toggle Rain Sounds, (3) Change Rain
+    Sound, and (4) Change Mode.
+</p>]]></description>
+            <enclosure url="https://freepicheep.github.io/rainaissance-releases/Rainaissance%202.2.0.dmg" length="7247776" type="application/octet-stream" sparkle:edSignature="AyOtZLl6Gb/VjKzjgpN24Vj0yIjAhU8YnZ/RcuupgutGtu6dScFHO/QJvcjqsVP6QsbEjCow2DfZk6IW7B91AQ=="/>
         </item>
     </channel>
 </rss>
