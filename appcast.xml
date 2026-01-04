@@ -14,13 +14,13 @@
     snow on your Mac using shortcuts, or, if you are a programmer, url schemes. This means you can make shortcuts that
     will automatically check the weather and start rain or snow based on current weather conditions. It is so fun and
     makes Rainaissance even more powerful and customizable.
-
+    <br><br>
     I built the Raycast extension but it will need to be approved by the Raycast team before it is available. Keep your
     eyes open for it on the Raycast extension store over the next few days/weeks. It's very handy for controlling
     Rainaissance from your keyboard. It will include: (1) Toggle Rain/Snow, (2) Toggle Rain Sounds, (3) Change Rain
     Sound, and (4) Change Mode.
-
-    v2.2.1 contains a bug fix from v2.2.0.
+    <br><br>
+    v2.2.1 fixes a bug that was in v2.2.0.
 </p>
 ]]></description>
             <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v2.2.1/Rainaissance.2.2.1.dmg" length="7249437" type="application/octet-stream" sparkle:edSignature="BFF3OYDmhzCctYoJdQiIYcYw8WTUEtAfARzEHGkjPcjZ9nXbLNTJA5jI1EMkF+Hv1JbDVoy84rAgkatP47cMBA=="/>
