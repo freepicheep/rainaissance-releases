@@ -3,27 +3,23 @@
     <channel>
         <title>Rainaissance</title>
         <item>
-            <title>2.2.1</title>
-            <pubDate>Sun, 04 Jan 2026 00:04:45 -0500</pubDate>
-            <sparkle:version>2.2.1</sparkle:version>
-            <sparkle:shortVersionString>2.2.1</sparkle:shortVersionString>
+            <title>2.2.2</title>
+            <pubDate>Sat, 07 Feb 2026 14:23:01 -0500</pubDate>
+            <sparkle:version>2.2.2</sparkle:version>
+            <sparkle:shortVersionString>2.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h1>Shortcuts Support and Raycast Support (pending approval)</h1>
+            <description><![CDATA[<h1>Fix Dock Icon Not Hiding Properly</h1>
 <p>
-    I've been wanting to build this release since I first had the idea of Rainaissance. Now you can automate rain and
-    snow on your Mac using shortcuts, or, if you are a programmer, url schemes. This means you can make shortcuts that
-    will automatically check the weather and start rain or snow based on current weather conditions. It is so fun and
-    makes Rainaissance even more powerful and customizable.
-    <br><br>
-    I built the Raycast extension but it will need to be approved by the Raycast team before it is available. Keep your
-    eyes open for it on the Raycast extension store over the next few days/weeks. It's very handy for controlling
-    Rainaissance from your keyboard. It will include: (1) Toggle Rain/Snow, (2) Toggle Rain Sounds, (3) Change Rain
-    Sound, and (4) Change Mode.
-    <br><br>
-    v2.2.1 fixes a bug that was in v2.2.0.
-</p>
-]]></description>
-            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v2.2.1/Rainaissance.2.2.1.dmg" length="7249437" type="application/octet-stream" sparkle:edSignature="BFF3OYDmhzCctYoJdQiIYcYw8WTUEtAfARzEHGkjPcjZ9nXbLNTJA5jI1EMkF+Hv1JbDVoy84rAgkatP47cMBA=="/>
+    It's not very fun to play hide and go seek with your dock icons. That's what Rainaissance was doing...until now. The
+    app icon will no longer blink or be there when you don't want it to be. By way of reminder, you can hide the dock
+    icon in the Advanced Settings.
+    <br>
+    <br>
+    Also, I'm excited to say that Raycast approved the extension for Rainaissance!🎉 You can install by clicking <a
+        href="https://www.raycast.com/freepicheep/rainaissance">here</a> or by searching for "Rainaissance" the the
+    Raycast extension store.
+</p>]]></description>
+            <enclosure url="https://freepicheep.github.io/rainaissance-releases/Rainaissance%202.2.2.dmg" length="6522104" type="application/octet-stream" sparkle:edSignature="fpzSp0PP4nTFtLIecA+6Id15vfnyfTBjRfbpzOHM0PqJHHcYP+SUOlOYC9TpnIoFo5nbFKEEaQcH5+W+DEpxBA=="/>
         </item>
     </channel>
 </rss>
