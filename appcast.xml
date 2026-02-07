@@ -19,7 +19,7 @@
         href="https://www.raycast.com/freepicheep/rainaissance">here</a> or by searching for "Rainaissance" the the
     Raycast extension store.
 </p>]]></description>
-            <enclosure url="https://freepicheep.github.io/rainaissance-releases/Rainaissance%202.2.2.dmg" length="6522104" type="application/octet-stream" sparkle:edSignature="fpzSp0PP4nTFtLIecA+6Id15vfnyfTBjRfbpzOHM0PqJHHcYP+SUOlOYC9TpnIoFo5nbFKEEaQcH5+W+DEpxBA=="/>
+            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v2.2.2/Rainaissance.2.2.2.dmg" length="6522104" type="application/octet-stream" sparkle:edSignature="fpzSp0PP4nTFtLIecA+6Id15vfnyfTBjRfbpzOHM0PqJHHcYP+SUOlOYC9TpnIoFo5nbFKEEaQcH5+W+DEpxBA=="/>
         </item>
     </channel>
 </rss>
