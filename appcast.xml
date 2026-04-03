@@ -3,23 +3,26 @@
     <channel>
         <title>Rainaissance</title>
         <item>
-            <title>2.2.2</title>
-            <pubDate>Sat, 07 Feb 2026 14:23:01 -0500</pubDate>
-            <sparkle:version>2.2.2</sparkle:version>
-            <sparkle:shortVersionString>2.2.2</sparkle:shortVersionString>
+            <title>3.0.0</title>
+            <pubDate>Thu, 02 Apr 2026 22:00:38 -0400</pubDate>
+            <sparkle:version>3.0.0</sparkle:version>
+            <sparkle:shortVersionString>3.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h1>Fix Dock Icon Not Hiding Properly</h1>
+            <enclosure url="https://freepicheep.github.io/rainaissance-releases/Rainaissance%203.0.0.dmg" length="5772212" type="application/octet-stream" sparkle:edSignature="Hx9xAzqXQ1K2u37XmvisC1zoyGWT/9eq2kxIfVJV04HON1QInAqvkwrd6K0YRZrRvY8aLojvu8HfB49yG2cdAQ=="/>
+            <description><![CDATA[<h1>Better Multi-Monitor Support</h1>
 <p>
-    It's not very fun to play hide and go seek with your dock icons. That's what Rainaissance was doing...until now. The
-    app icon will no longer blink or be there when you don't want it to be. By way of reminder, you can hide the dock
-    icon in the Advanced Settings.
+    Maybe you are enjoying Rainaissance on the fancy new Studio Display. If you are me, you are not. Either way, if you
+    plug/unplug a new monitor while Rainaissance is running, it will not restart (previous behavior to handle screen
+    changes). Now, it just handles the reconcilation automatically. This means your Rain sound won't stop/start and you
+    don't have to worry about Rainaissance disappearing, because that would be truly awful.
     <br>
     <br>
-    Also, I'm excited to say that Raycast approved the extension for Rainaissance!🎉 You can install by clicking <a
-        href="https://www.raycast.com/freepicheep/rainaissance">here</a> or by searching for "Rainaissance" the the
-    Raycast extension store.
+    Also, in case you didn't see it previously, I'm excited to say that Raycast approved the extension for
+    Rainaissance!🎉 You can install by clicking <a href="https://www.raycast.com/freepicheep/rainaissance">here</a> or
+    by searching for "Rainaissance" the the
+    Raycast extension store. I also recommend checking out the available Shortcuts in the Apple Shortcuts app if you
+    like to automate things.
 </p>]]></description>
-            <enclosure url="https://github.com/freepicheep/rainaissance-releases/releases/download/v2.2.2/Rainaissance.2.2.2.dmg" length="6522104" type="application/octet-stream" sparkle:edSignature="fpzSp0PP4nTFtLIecA+6Id15vfnyfTBjRfbpzOHM0PqJHHcYP+SUOlOYC9TpnIoFo5nbFKEEaQcH5+W+DEpxBA=="/>
         </item>
     </channel>
 </rss>
